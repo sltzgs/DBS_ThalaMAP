@@ -3,8 +3,7 @@
 **DBS_ThalaMAP** is the companion codebase for the paper:
 
 > _An AI-based tool reveals hidden deep brain boundaries from electrophysiology_  
-> Simon Leszek, Matthew R. Baker, Bryan T. Klassen, Michael A. Jensen,  
-> Gaby Ojeda Valencia, Klaus-Robert Müller, Kai J. Miller
+> Simon Leszek, Matthew R. Baker, Bryan T. Klassen, Michael A. Jensen, Gaby Ojeda Valencia, Klaus-Robert Müller and, Kai J. Miller.
 
 ---
 
@@ -32,7 +31,7 @@ Code, models, and training configs will be released upon publication.
 
 ## Contact
 
-For questions: [Simon Leszek](mailto:simon.leszek(at)tu-berlin.de)
+For questions: [Simon Leszek](mailto:simon.leszek@tu-berlin.de)
 
 ---
 
